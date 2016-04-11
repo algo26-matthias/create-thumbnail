@@ -12,9 +12,12 @@
         }
     ],
     "require": {
-        "ext-pcre": "*",
         "php": ">=5.6.0"
     },
+    "suggest": {
+        "ext-imagick": "It is recommended to install the ImageMagick package and PHP extension",
+        "ext-gd": "Optionally install GD for the actual conversion process"
+    }
     "repositories": {
         "type": "vcs",
         "url": "https://github.com/phlylabs/create-thumbnail.git"
