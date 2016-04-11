@@ -1,0 +1,32 @@
+{
+    "name": "phlylabs/create-thumbnail",
+    "description": "A simple class to create thumbnails from larger images",
+    "license": "MIT",
+    "keywords": ["PHP","Thumbnail"],
+    "homepage": "http://phlylabs.com/",
+    "authors": [
+        {
+            "name": "Matthias Sommerfeld",
+            "email": "mso@phlylabs.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "ext-pcre": "*",
+        "php": ">=5.6.0"
+    },
+    "repositories": {
+        "type": "vcs",
+        "url": "https://github.com/phlylabs/create-thumbnail.git"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.1-naster"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Phlylabs\\CreateThumbnail\\": "src"
+        }
+    }
+}
