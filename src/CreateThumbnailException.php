@@ -6,7 +6,7 @@
  * Time: 20:28
  */
 
-namespace Phlylabs\CreateThumbnail;
+namespace Algo26\CreateThumbnail;
 
 
 class CreateThumbnailException extends \Exception
