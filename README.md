@@ -14,7 +14,7 @@ Purpose of this class is only thumbnail generation, so there's not many options 
 Usage example:
 
 ```php
-use Phlylabs\CreateThumbnail\CreateThumbnail;
+use Algo26\CreateThumbnail\CreateThumbnail;
 
 $thumbnail = new CreateThumbnail();
 
