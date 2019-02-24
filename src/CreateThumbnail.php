@@ -5,7 +5,7 @@
  * @copyright 2010-2016 phlyLabs, Berlin (http://phlylabs.de)
  */
 
-namespace Phlylabs\CreateThumbnail;
+namespace Algo26\CreateThumbnail;
 
 class CreateThumbnail
 {
