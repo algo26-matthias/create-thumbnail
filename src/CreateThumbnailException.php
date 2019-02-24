@@ -8,8 +8,6 @@
 
 namespace Algo26\CreateThumbnail;
 
-
 class CreateThumbnailException extends \Exception
 {
-
 }
