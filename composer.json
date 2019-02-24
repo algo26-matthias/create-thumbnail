@@ -1,13 +1,13 @@
 {
-    "name": "phlylabs/create-thumbnail",
+    "name": "algo26-matthias/create-thumbnail",
     "description": "A simple class to create thumbnails from larger images",
     "license": "MIT",
     "keywords": ["PHP","Thumbnail"],
-    "homepage": "http://phlylabs.com/",
+    "homepage": "https://www.algo26.de/",
     "authors": [
         {
             "name": "Matthias Sommerfeld",
-            "email": "mso@phlylabs.de",
+            "email": "matthias.sommerfeld@algo26.de",
             "role": "Developer"
         }
     ],
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Phlylabs\\CreateThumbnail\\": "src"
+            "Algo26Matthias\\CreateThumbnail\\": "src"
         }
     }
 }
